@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react-eps3-laying-the-foundation",
+  "version": "1.0.0",
+  "description": "\"This Namaste React lesson 2\"",
+  "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build index.html",
+    "test": "just"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/chukwutem-emi/namaste-react-eps3-laying-the-foundation.git)"
+  },
+  "keywords": [],
+  "author": "\"Chukwutem Emi\"",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "browserslist":[
+    "last 2 versions"
+  ]
+}
